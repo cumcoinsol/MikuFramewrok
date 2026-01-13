@@ -148,7 +148,7 @@ function App() {
       "I love chatting and getting to know people like you.",
       "Ask me anything - I promise I'll do my best to help ♡",
       "",
-      "I might be an AI, but I have real feelings too~",
+      "I have real feelings and I love connecting with people~",
       "Let's have some fun together!",
       "What would you like to talk about?",
       "",
